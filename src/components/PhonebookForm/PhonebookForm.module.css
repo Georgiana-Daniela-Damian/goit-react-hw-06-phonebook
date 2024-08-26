@@ -7,23 +7,23 @@
   display: flex;
   flex-direction: column;
   max-width: 200px;
-  color: #0d7668;
+  color: rgb(42, 105, 94);
 }
 .button {
   margin: 5px 10px;
-  background-color: rgb(119, 199, 184);
+  background-color: rgb(93, 181, 164);
   color: white;
   border-radius: 7px;
-  border-color: #0d7668;
+  border-color: rgb(42, 105, 94);
 }
 .button:hover {
   background-color: white;
-  color: #0d7668;
-  border-color: #0d7668;
+  color: rgb(42, 105, 94);
+  border-color: rgb(42, 105, 94);
 }
 .form {
   width: 300px;
   padding: 20px;
   display: block;
-  border: 1px solid #0d7668;
+  border: 1px solid rgb(42, 105, 94);
 }

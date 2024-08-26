@@ -12,7 +12,7 @@ body {
   flex-direction: column;
   margin: 20px auto;
   width: 500px;
-  background-color: rgb(119, 199, 184);
+  background-color: rgb(93, 181, 164);
 }
 
 code {
@@ -20,5 +20,5 @@ code {
     monospace;
 }
 .title {
-  color: #0d7668;
+  color: rgb(42, 105, 94);
 }

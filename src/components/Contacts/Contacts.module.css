@@ -11,7 +11,7 @@
   gap: 20px;
   font-size: 18px;
   font-weight: 500;
-  color: #0d7668;
+  color: rgb(42, 105, 94);
 }
 .buttonDelete {
   height: 22px;
@@ -21,13 +21,13 @@
   font-weight: 500;
   cursor: pointer;
   margin: 5px 10px;
-  background-color: rgb(119, 199, 184);
+  background-color: rgb(93, 181, 164);
   color: white;
   border-radius: 7px;
-  border-color: #0d7668;
+  border-color: rgb(42, 105, 94);
 }
 .buttonDelete:hover {
   background-color: white;
-  color: #0d7668;
-  border-color: #0d7668;
+  color: rgb(42, 105, 94);
+  border-color: rgb(42, 105, 94);
 }
